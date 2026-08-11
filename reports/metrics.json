@@ -1,0 +1,30 @@
+[
+  {
+    "model": "linear_full",
+    "MAE": 195.02,
+    "RMSE": 654.12,
+    "MAPE_%": 10.69,
+    "R2": 0.816
+  },
+  {
+    "model": "random_forest_full",
+    "MAE": 162.66,
+    "RMSE": 648.46,
+    "MAPE_%": 7.14,
+    "R2": 0.8192
+  },
+  {
+    "model": "xgboost_full",
+    "MAE": 123.06,
+    "RMSE": 635.56,
+    "MAPE_%": 5.45,
+    "R2": 0.8263
+  },
+  {
+    "model": "xgboost_reduced_no_market_signals",
+    "MAE": 129.03,
+    "RMSE": 637.16,
+    "MAPE_%": 5.77,
+    "R2": 0.8254
+  }
+]

@@ -1,0 +1,17 @@
+,importance
+distance,0.52208614
+delivery_lon,0.18780015
+pickup_lon,0.13068478
+pickup_lat,0.044538196
+equipment_Dry Van,0.017956534
+equipment_Reefer,0.01414753
+quote_signal,0.011234589
+is_weekend,0.010766687
+day_of_year_sin,0.009888192
+weight,0.009667501
+month,0.009539011
+day_of_year_cos,0.008401844
+market_index,0.007914671
+delivery_lat,0.006956802
+day_of_week,0.0049553877
+equipment_Flatbed,0.003461961
